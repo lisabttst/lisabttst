@@ -23,7 +23,7 @@ Honored by the European Commission for the innovative "Eyeprint" project.
 
 **Skills**
 
-Languages: Native French, Fluent English, Fluent Spanish, Intermediate Italian
-Technical Proficiency: Advanced PowerPoint, Excel, Figma, HTML, and CSS
-Programming Languages: Python, VBA, C#, Java, R
-AI Techniques: Foundational understanding and application of AI principles.
+- Languages: Native French, Fluent English, Fluent Spanish, Intermediate Italian
+- Technical Proficiency: Advanced PowerPoint, Excel, Figma, HTML, and CSS
+- Programming Languages: Python, VBA, C#, Java, R
+- AI Techniques: Foundational understanding and application of AI principles.

@@ -2,7 +2,7 @@
 
 **About Me**
 
-I'm Lisa Battistini, an engineering student with a major in Data Science at École des Mines de Saint-Etienne and a management student majoring in Finance at EMLYON Business School. I'm passionate about market and corporate finance, and data science. My professional experiences at Crédit Agricole and Société Générale Securities Services have honed my skills in these areas.
+I'm Lisa Battistini, an engineering student with a major in Data Science at École des Mines de Saint-Etienne and a management student majoring in Finance at EMLYON Business School. I'm passionate about market and corporate finance, and data science.
 
 **Education**
 
@@ -15,11 +15,6 @@ EMLYON Business School - Master's in Management, Major in Finance (Expected 2025
 - Focused on developing key skills in market and corporate finance, including practical business simulations and theoretical applications.
 - Advanced coursework in web design, mastering Figma, HTML, and CSS.
 - Studies in artificial intelligence processing, enhancing programming skills, and applying AI.
-  
-Lycée La Martinière Monplaisir - Preparatory Classes for Grandes Écoles (2018-2021)
-
-Lycée de la Côtière - Scientific Baccalaureate, Mathematics Option (2016-2018)
-Honored by the European Commission for the innovative "Eyeprint" project.
 
 **Skills**
 

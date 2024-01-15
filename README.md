@@ -1,33 +1,29 @@
-### Lisa Battistini
+#Lisa Battistini
 
-# À Propos de Moi
+**About Me**
 
-Je suis Lisa Battistini, une étudiante dynamique en Ingénierie (Majeure Science des données) à l'École des Mines de Saint-Etienne et en Management (Majeure Finance) à EMLYON Business School, visant à obtenir mon Master en 2025. Passionnée par la finance de marché et d'entreprise, ainsi que par la science des données, j'ai acquis une expérience professionnelle significative dans ces domaines, notamment chez Crédit Agricole et Société Générale Securities Services.
+I'm Lisa Battistini, an engineering student with a major in Data Science at École des Mines de Saint-Etienne and a management student majoring in Finance at EMLYON Business School. I'm passionate about market and corporate finance, and data science. My professional experiences at Crédit Agricole and Société Générale Securities Services have honed my skills in these areas.
 
-# Expérience Professionnelle
+**Education**
 
-Crédit Agricole - Conseiller Clientèle (CDI étudiant, Fév 2023 – Sep 2023)
-Gestion de portefeuille clients, conseils en investissement et stratégies fiscales efficaces.
+École des Mines de Saint-Etienne - Master's in Engineering, Major in Data Science (Expected 2025)
+- Specialized coursework in "Fundamentals of Probabilities" and "Statistical Learning" with practical applications in data analysis, decision trees, and advanced regression.
+- Machine learning studies covering SVM optimization and neural networks, with hands-on projects and written exams to solidify understanding and application.
+- Engaged in metamodeling and optimization courses, focusing on experience design and global optimization, providing a solid foundation in advanced data analysis techniques.
+  
+EMLYON Business School - Master's in Management, Major in Finance (Expected 2025)
+- Focused on developing key skills in market and corporate finance, including practical business simulations and theoretical applications.
+- Advanced coursework in web design, mastering Figma, HTML, and CSS.
+- Studies in artificial intelligence processing, enhancing programming skills, and applying AI.
+  
+Lycée La Martinière Monplaisir - Preparatory Classes for Grandes Écoles (2018-2021)
 
-Société Générale Securities Services - Coverage Analyst (Stage, Sep 2022 – Déc 2022)
-Amélioration de stratégies de vente, participation à l'acquisition de nouveaux clients, et analyse de données de marché.
+Lycée de la Côtière - Scientific Baccalaureate, Mathematics Option (2016-2018)
+Honored by the European Commission for the innovative "Eyeprint" project.
 
-Transaction Emlyon - Secrétaire générale et responsable communication (Jan 2023 – Jan 2024)
-Organisation d'événements M&A, coordination d'ateliers et conférences, et rédaction de newsletters.
+**Skills**
 
-# Éducation
-
-École des Mines - Master en Ingénierie, Majeure Science des données (2025)
-EMLYON Business School - Master en Management, Majeure Finance (2025)
-Développement de compétences fondamentales en Management et Finance de marché et d'entreprise​​
-Cours de "Designing With Web", utilisation avancée de Figma, et développement en HTML et CSS
-Cours de "Processing with AI", approfondissement des techniques de programmation et d'application de l'intelligence artificielle
-Lycée La Martinière Monplaisir - Classes Préparatoires aux Grandes Écoles (2018-2021)
-Lycée de la Côtière - Baccalauréat Scientifique, option Mathématiques (2016-2018). Lauréate du prix de la Commission Européenne pour le projet « Eyeprint ».
-
-# Compétences
-
-Langues : Français (Natif), Anglais (Courant), Espagnol (Courant), Italien (Intermédiaire)
-Informatique : Compétences avancées en PowerPoint, Excel, Figma, HTML, CSS
-Programmation : Python, VBA, C#, Java, R
-Intelligence Artificielle : Techniques en IA appliquées dans le cadre de mon cours "Processing with AI" et de ma Majeur en réseaux de neurones
+Languages: Native French, Fluent English, Fluent Spanish, Intermediate Italian
+Technical Proficiency: Advanced PowerPoint, Excel, Figma, HTML, and CSS
+Programming Languages: Python, VBA, C#, Java, R
+AI Techniques: Foundational understanding and application of AI principles.

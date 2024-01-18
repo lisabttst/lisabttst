@@ -1,6 +1,7 @@
 ### Lisa Battistini
 #### Double degree student in Engineering and Finance
-![Nom de votre image](https://drive.google.com/uc?export=view&id=1tl7dSJcOxDKUTHZ6PeSThk1G1e7hDYIi)
+[![Nom de votre image](https://drive.google.com/uc?export=view&id=1tl7dSJcOxDKUTHZ6PeSThk1G1e7hDYIi)](https://drive.google.com/uc?export=view&id=1FXpGxk7Mj9YPJ6WWaYE8SZKAmdF0DN2R
+)
 
 
 I'm Lisa Battistini, an engineering student with a major in Data Science at École des Mines de Saint-Etienne and a management student majoring in Finance at EMLYON Business School. I'm passionate about market and corporate finance, and data science.

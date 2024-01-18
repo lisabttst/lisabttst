@@ -1,6 +1,6 @@
-# Lisa Battistini
-
-**About Me**
+### Lisa Battistini
+#### Double degree student in Engineering and Finance
+![Double degree student in Engineering and Finance](https://drive.google.com/uc?export=view&id=1tl7dSJcOxDKUTHZ6PeSThk1G1e7hDYIi%0A)
 
 I'm Lisa Battistini, an engineering student with a major in Data Science at École des Mines de Saint-Etienne and a management student majoring in Finance at EMLYON Business School. I'm passionate about market and corporate finance, and data science.
 
@@ -16,9 +16,12 @@ EMLYON Business School - Master's in Management, Major in Finance (Expected 2025
 - Advanced coursework in web design, mastering Figma, HTML, and CSS.
 - Studies in artificial intelligence processing, enhancing programming skills, and applying AI.
 
-**Skills**
+Skills: PYTHON / R / VBA / HTML / CSS/ JAVA
 
-- Languages: Native French, Fluent English, Fluent Spanish, Intermediate Italian
-- Technical Proficiency: Advanced PowerPoint, Excel, Figma, HTML, and CSS
-- Programming Languages: Python, VBA, C#, Java, R
-- AI Techniques: Foundational understanding and application of AI principles.
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lisabttst )  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Lisabttst )  
+

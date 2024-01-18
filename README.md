@@ -21,4 +21,5 @@ I'm Lisa Battistini, an engineering student 🎓 with a major in Data Science �
 
 Skills: PYTHON / R / VBA / HTML / CSS/ JAVA
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+
+🔗 [Lisa Battistini - LinkedIn](https://www.linkedin.com/in/lisa-battistini-443574222)

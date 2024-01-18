@@ -6,7 +6,7 @@
 
 I'm Lisa Battistini, an engineering student 🎓 with a major in Data Science 📊 at École des Mines de Saint-Etienne and a management student majoring in Finance 💼 at EMLYON Business School. I'm passionate about market and corporate finance, and data science 🚀.
 
-###Education
+### Education
 
 **École des Mines de Saint-Etienne - Master's in Engineering, Major in Data Science (Expected 2025)**
 
